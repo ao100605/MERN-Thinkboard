@@ -77,5 +77,9 @@ HOW TO DEPLOY
     1. hide .env file using .gitignore
     2. git init > git add . > git commit -m "intitial commit"
     3. create new repo on github
-    4.  
+    4. push an existing repo from the command line
 - use render.com
+    1. npm init -y (creates package.json file)
+    2. under "scripts": install dependencies, run frontend, start backend
+    3. combine domains & remove CORS in server.js
+    
