@@ -82,4 +82,5 @@ HOW TO DEPLOY
     1. npm init -y (creates package.json file)
     2. under "scripts": install dependencies, run frontend, start backend
     3. combine domains & remove CORS in server.js
-    
+    4. make a new web server with free plan (goes inactive after 15min)
+- live @ https://mern-thinkboard-zbqv.onrender.com/
